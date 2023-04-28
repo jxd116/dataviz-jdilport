@@ -1,4 +1,6 @@
 # dataviz-jdilport
+Module 4 Pandas Challenge has it's own folder and contains the code and written report.
+
 
 Module 3 Python Challenge has it's own folder and contains separate folders for PyBank and PyPoll.  Each folder has the csv data set, the main.py file with code, and the txt file output. 
 
