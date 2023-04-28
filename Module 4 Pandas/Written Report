@@ -1,0 +1,6 @@
+Summarize the analysis 
+We reviewed data on student performance in a school district. We used Python and the Pandas library to manipulate and analyze the data, creating several dataframes that summarized key statistics for the district as a whole, as well as for individual schools and grade levels.
+
+Draw two conclusions or comparisons from the calculations 
+1. Charter schools perform better than district schools in terms of academic performance. The average math score, average reading score, and passing rates for both math and reading are consistently higher for charter schools than for district schools.
+2. Schools with smaller student populations tend to perform better than schools with larger populations. The data shows that as the total number of students at a school increases, the average math and reading scores and passing rates tend to decrease. This trend is evident when comparing the performance of small and large schools, as well as when looking at the performance of schools grouped by student population size.
